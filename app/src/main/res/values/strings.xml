@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyTestProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_login">Enter login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_female">Enter female</string>
+    <string name="submit">Submit</string>
+    <string name="or">or</string>
+    <string name="registration">Registration</string>
+    <string name="profile_name">Profile name</string>
+    <string name="profile_female">Profile female</string>
+    <string name="your_login">Your Login</string>
+    <string name="your_password">Your Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="show_password">Show password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="confirm">Confirm</string>
+    <string name="get">Get!</string>
+</resources>
